@@ -1,6 +1,12 @@
 # Analysis of Signal Quality vs Exposure Time in Deep Sky Imaging
+![image](final.jpg)
 ## Abstract
-There is nothing novel about this project, it is merely an analysis of .fits data to "prove" that more exposure time leads to better image quality.
+
+There is nothing novel about this project, it is merely an analysis of .fits data to demonstrate that more exposure time leads to better image quality.
+This analysis can lead to answer the question "How much more exposure time should I perform on this object?" At some point more exposure time will 
+not increase the snr because it is approaching the diffraction limitation of the imaging hardware and the local environment. And long before that it is perhaps best
+to 
+
 ## Glossary
 - Stacking
   - The process of adding several images in order to increase the signal to noise ratio (snr) of the final image. There are several methods for determining the final value of a pixel
